@@ -1,0 +1,9 @@
+.hero {
+  background-image: linear-gradient(rgba(3, 105, 161, 0.8), rgba(3, 105, 161, 0.8)), url('/assets/images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.card-title {
+  color: #0369a1; /* Pacific Blue */
+}
